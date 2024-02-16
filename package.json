@@ -8,6 +8,9 @@
     "start": "parcel",
     "build": "parcel build"
   },
+  "targets": {
+    "main": false
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
